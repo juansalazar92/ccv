@@ -241,7 +241,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #078eaf;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -4001,7 +4001,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #078eaf;
 }
 
 .nav-fill > .nav-link,
