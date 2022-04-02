@@ -1,4 +1,0 @@
-# ccv
-hoja de vida
-
-#
